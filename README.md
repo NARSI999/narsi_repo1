@@ -1,2 +1,2 @@
 # narsi_repo1
-web application repository 
+This is a sample repository for web pages. 
